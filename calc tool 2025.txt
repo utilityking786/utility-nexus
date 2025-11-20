@@ -1,0 +1,25 @@
+<!-- AD-FRIENDLY CONTENT SECTIONS -->
+<div class="mt-12 space-y-8 p-4 border-t border-gray-200">
+    
+    <section>
+        <h2 class="text-2xl font-bold text-gray-700 border-b pb-2 mb-4">What is a Modern Web Calculator?</h2>
+        <p class="text-gray-600 leading-relaxed">
+            A calculator is an essential digital tool designed to perform mathematical operations, ranging from simple arithmetic (addition, subtraction, multiplication, division) to more complex scientific functions. This modern web-based calculator provides instant and accurate results for everyday calculations. Unlike physical calculators, our online tool is accessible on any device, ensuring you can quickly solve problems whether you are at home, in the office, or studying.
+        </p>
+    </section>
+
+    <section>
+        <h2 class="text-2xl font-bold text-gray-700 border-b pb-2 mb-4">How to Use This Calculator (Instructions)</h2>
+        <ol class="list-decimal list-inside space-y-2 text-gray-600">
+            <li>**Enter Numbers:** Click the number buttons (0-9) to input your values into the display screen.</li>
+            <li>**Select Operation:** Click an operator button (e.g., '+', '-', '*', or '/') to choose the mathematical function you need.</li>
+            <li>**Continue Input:** Enter the second number for your calculation.</li>
+            <li>**Get Result:** Click the **'='** or **'Enter'** button to see the final solution on the display.</li>
+            <li>**Clear Screen:** Use the **'AC'** (All Clear) button to erase the current calculation and start a new one.</li>
+        </ol>
+        <p class="mt-4 text-sm text-gray-500">
+            This calculator supports floating point numbers (decimals) and standard order of operations.
+        </p>
+    </section>
+</div>
+<!-- END CONTENT SECTIONS -->
